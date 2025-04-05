@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Benvenuti!
 ---
-I'm just trying to do my first blog as a test
+Qui è possibile prendere in prestito vari materiali dalla biblioteca!
 
